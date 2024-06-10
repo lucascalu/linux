@@ -1,4 +1,15 @@
 <h1>PROJETO INTEGRADOR</h1>
+
+
+<H2>UNIDADES CURRICULAS</H2>
+<pre>
+LOGICA DE PROGRAMAÇÃO
+SISTEMAS OPERACIONAIS
+LEVANTAMENTO DE REQUISITOS
+ARQUITETURA DE REDES COM IOT
+
+</pre>
+
 <center>
  Atualmente em uma rede de escola de tecnologia situada na cidade de Sumaré-SP foi detectado por coordenadores, professores e outros colaboradores certa defasagem em relação a quesitos de automação, monitoramento e comunicação de serviços existentes fossem eles operacionais ou ainda gerenciais
  Visando a solução dessa situação foi solicitado que equipes de desenvolvedores de até 6 integrantes realizassem uma visita pela unidade e apresentassem projetos e soluções.
