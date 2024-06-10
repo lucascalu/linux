@@ -1,3 +1,57 @@
+<h1>PROJETO INTEGRADOR</h1>
+<center>
+ Atualmente em uma rede de escola de tecnologia situada na cidade de Sumaré-SP foi detectado por coordenadores, professores e outros colaboradores certa defasagem em relação a quesitos de automação, monitoramento e comunicação de serviços existentes fossem eles operacionais ou ainda gerenciais
+ Visando a solução dessa situação foi solicitado que equipes de desenvolvedores de até 6 integrantes realizassem uma visita pela unidade e apresentassem projetos e soluções.
+</center>
+<br>
+<center>
+Sua função será a de seguir todas as etapas necessária juntamente a equipe de desenvolvedores de modo que no final seja entregue um projeto contendo:
+*Quadro kanban
+*Briefing
+*Código fonte de aplicações
+*Diagrama funcional de montagens realizadas via arduino
+*Montagem fisica no arduíno 
+*Confirurar servidor de aplicação
+</center>
+
+<h1>CRITÉRIOS DE AVALIAÇÃO</H1>
+
+<center>
+<pre>
+
+(C)Diagrama do Circuito está correto
+(C)Circuito funcionou no simulador
+(D) Foi entregue a montagem física do mesmo
+(D) Montagem fisica funcionou
+(D) Aluno foi proativo durante realização da atividade
+(D)Aluno trabalhou em equipe
+
+(C) -Entregou Briefing na plataforma classrom
+(D) Briefing apresenta datas coerentes
+(D) Briefing esta estruturado de maneira adequada com introdução, desenvolvimento e conclusão
+(D) Briefing está escrito de maneira atender as normas ABNT
+(D) Briefing contém dados do aluno descritos de maneira correta
+(D) Briefing foi salvo em formato de arquivo que não altere formatação independente de local que for aberto (ex.pdf)
+(C) - Aplicou metodologia Kanban de maneira adequada no desenvolvimento do projeto.
+(C) - Aplicou metodologia Scrum de maneira adequada no desenvolvimento do projeto.
+
+(D) O aluno implementou uma estrutura de repetição para permitir o cálculo do IMC para múltiplos
+conjuntos de dados.
+(D) Demonstrou atenção aos detalhes
+
+(C)Instalou Sistema Operacional Ubuntu 20.04 lts de forma correta
+(D)Manipulou CLI conforme orientação dos docentes
+(D)Configurou Firewall UFW conforme regras estabelecidas
+(D)Instalou corretamente SSH,PHP,APACHE2,MYSQL e NODE-RED
+
+</pre>
+</center>
+
+
+
+<h1>INFORMAÇÕES COMPLEMENTARES</h1>
+
+
 <pre> https://www.youtube.com/watch?v=CLlHSIupiSc </pre>
 
 <pre> https://projecthub.arduino.cc/ </pre>
