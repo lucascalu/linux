@@ -22,7 +22,7 @@ Sua função será a de seguir todas as etapas necessária juntamente a equipe d
 *Código fonte de aplicações
 *Diagrama funcional de montagens realizadas via arduino
 *Montagem fisica no arduíno 
-*Confirurar servidor de aplicação
+*Configurar servidor de aplicação
 </center>
 
 <h1>CRITÉRIOS DE AVALIAÇÃO</H1>
